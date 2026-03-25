@@ -4,4 +4,5 @@
     <string name="first_app">My First App</string>
     <string  name="image">ImageView: android:contentDescription=”Just smile”</string>
     <string name="activity_oncreate_msg">\"Activity %1$s onCreate\"</string>
+    <string name="button">Change color</string>
 </resources>
