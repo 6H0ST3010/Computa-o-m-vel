@@ -21,7 +21,8 @@ abstract class Book(
     val g_publicationYear: Int
         get() = publicationYear
 
-    var s_availableCopies: Int = availableCopies
+    var s_availableCopies: Int
+        get() = availableCopies
         set(value) {
             if (value < 0) {
                 println("Negative copies its invalid")
@@ -30,7 +31,7 @@ abstract class Book(
             if (value == 0) {
                 println("No available copies")
             }
-            field = value
+            availableCopies = value
         }
 
     init {
