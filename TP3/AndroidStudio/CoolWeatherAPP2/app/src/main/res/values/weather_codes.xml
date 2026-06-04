@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string-array name="weather_codes">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>45</item>
+    </string-array>
+
+    <string-array name="weather_descriptions">
+        <item>Clear Sky</item>
+        <item>Mainly Clear</item>
+        <item>Partly Cloudy</item>
+        <item>Overcast</item>
+        <item>Fog</item>
+    </string-array>
+
+    <string-array name="weather_images">
+        <item>clear</item>
+        <item>clear</item>
+        <item>cloudy</item>
+        <item>cloud</item>
+        <item>fog</item>
+    </string-array>
+
+</resources>

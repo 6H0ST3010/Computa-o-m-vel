@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_500">#9C27B0</color>
+    <color name="purple_700">#7e22ce</color>
+    <color name="teal_200">#96f7e4</color>
+    <color name="teal_700">#0f766e</color>
+    <color name="viewBG">#E91E63</color>
+    <color name="textday">#FF5722</color>
+    <color name="cardday">#CCffefd5</color>
+    <color name="textnight">#ecf0f1</color>
+    <color name="cardnight">#CC3ec8c1</color>
+</resources>

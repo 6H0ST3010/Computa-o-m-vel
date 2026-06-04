@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cool Weather APP</string>
+    <string name="l_wind3">Velocidade do Vento</string>
+    <string name="l_temp">Temperatura</string>
+    <string name="l_time">Tempo</string>
+    <string name="longitude">Longitude</string>
+    <string name="l_sea">Pressão do Nível do Mar</string>
+    <string name="l_wind">Direção do Vento</string>
+    <string name="button">Atualizar</string>
+    <string name="l_lat">Latitude</string>
+    <string name="l_long">Longitude</string>
+    <string name="results">--</string>
+    <string name="coordinates">Coordenadas</string>
+    <string name="latitude">Latitude</string>
+    <string name="update_wetaher">Atualizar tempo</string>
+    <string name="update_weather">Atualizar tempo</string>
+    <string name="sea_level_pressure">Pressão do Nível do Mar</string>
+    <string name="wind_direction">Direção do Vento</string>
+    <string name="wind_speed">Velocidade do Vento</string>
+    <string name="temperature">Temperatura</string>
+    <string name="time">Tempo</string>
+    <string name="weather_details">Detalhes do Clima</string>
+</resources>
