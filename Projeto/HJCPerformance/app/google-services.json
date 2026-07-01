@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "490165098333",
+    "project_id": "hjc-performance-e4b0f",
+    "storage_bucket": "hjc-performance-e4b0f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490165098333:android:0e0c5eaaa87a1018b2bab4",
+        "android_client_info": {
+          "package_name": "com.project.hjcperformance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABXy_wcEWgK9rY3CnM3FiPj0uE7jDrMxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

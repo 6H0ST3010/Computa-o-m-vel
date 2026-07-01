@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/navigation_pedidos"
+    app:enterAnim="@anim/fade_in"
+    app:exitAnim="@anim/fade_out"
+    app:popEnterAnim="@anim/fade_in"
+    app:popExitAnim="@anim/fade_out">
+
+    <fragment
+        android:id="@+id/navigation_pedidos"
+        android:name="com.project.hjcperformance.ui.dashboard.PedidosFragment"
+        android:label="Pedidos Ativos"
+        tools:layout="@layout/fragment_pedidos" />
+
+    <fragment
+        android:id="@+id/navigation_clientes"
+        android:name="com.project.hjcperformance.ui.clientes.ClientesCarrosFragment"
+        android:label="Clientes e Viaturas"
+        tools:layout="@layout/fragment_clientes_carros" />
+
+    <fragment
+        android:id="@+id/navigation_premium"
+        android:name="com.project.hjcperformance.ui.premium.ServicosPremiumFragment"
+        android:label="Histórico Premium"
+        tools:layout="@layout/fragment_servicos_premium" />
+
+    <fragment
+        android:id="@+id/navigation_definicoes"
+        android:name="com.project.hjcperformance.ui.definicoes.DefinicoesFragment"
+        android:label="Definições"
+        tools:layout="@layout/fragment_definicoes" />
+
+</navigation>

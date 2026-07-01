@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HJC Performance</string>
+    <string name="txt_definicoes_titulo">Paramètres du Garage</string>
+    <string name="txt_sobre_autor">À propos de l\'Auteur</string>
+    <string name="txt_nome_autor">Développé par : Rodrigo Amaral</string>
+    <string name="title_active_orders">HJC Performance - Commandes Actives</string>
+    <string name="title_clients_vehicles">Clients et Véhicules</string>
+    <string name="title_premium_financial">Rapport Financier Premium</string>
+    <string name="btn_help">Aide / Comment Utiliser</string>
+    <string name="btn_logout">Se déconnecter</string>
+    <string name="label_name">Nom :</string>
+    <string name="label_email">E-mail :</string>
+    <string name="label_plan">Plan :</string>
+    <string name="plan_free">Gratuit</string>
+    <string name="plan_premium">PREMIUM ⭐</string>
+
+    <string name="menu_orders">Commandes</string>
+    <string name="menu_clients">Clients</string>
+    <string name="menu_premium">Premium</string>
+    <string name="menu_settings">Paramètres</string>
+
+    <string name="status_open">Ouvert</string>
+    <string name="status_in_progress">En Cours</string>
+    <string name="status_completed">Terminé</string>
+    <string name="status_cancelled">Annulé</string>
+
+    <string name="label_description">Description :</string>
+    <string name="label_budget">Budget :</string>
+    <string name="label_status">État :</string>
+    <string name="label_total_billing">Facturation Totale : %s €</string>
+    <string name="label_phone">Téléphone :</string>
+    <string name="label_photo_url">URL de la photo :</string>
+    <string name="label_plate">Plaque :</string>
+    <string name="label_brand">Marque :</string>
+    <string name="label_model">Modèle :</string>
+    <string name="label_client">Client :</string>
+
+    <string name="dialog_new_order">Nouvelle Commande</string>
+    <string name="dialog_new_client">Nouveau Client</string>
+    <string name="dialog_edit_order">Modifier la commande - %s</string>
+    <string name="dialog_edit_client">Modifier le client</string>
+    <string name="dialog_delete_client">Supprimer le client</string>
+    <string name="dialog_confirm_delete">Êtes-vous sûr de vouloir supprimer %s ?</string>
+
+    <string name="btn_save">Enregistrer</string>
+    <string name="btn_save_changes">Enregistrer les modifications</string>
+    <string name="btn_close">Fermer</string>
+    <string name="btn_cancel">Annuler</string>
+    <string name="btn_delete">Supprimer</string>
+    <string name="btn_create">Créer</string>
+
+    <string name="msg_success">Succès !</string>
+    <string name="msg_error">Erreur lors du traitement des données.</string>
+    <string name="msg_add_client_first">Ajoutez d\'abord um client !</string>
+
+    <!-- Login Screen -->
+    <string name="hint_email">E-mail profissional</string>
+    <string name="hint_password">Mot de passe</string>
+    <string name="btn_login">Entrer dans le Garage</string>
+    <string name="txt_register_link">Pas de compte ? Créer um compte mécanicien</string>
+
+    <!-- Premium Paywall -->
+    <string name="premium_title">⭐ Fonctionnalité Premium</string>
+    <string name="premium_description">Accédez à l\'historique détaillé des services, aux statistiques de dépenses et aux rapports de facturation pour seulement 1€/mois.</string>
+    <string name="btn_activate_premium">Activer le compte Premium (1€)</string>
+    <string name="btn_deactivate_premium">Désactiver le plan Premium</string>
+</resources>

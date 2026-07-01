@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HJC Performance</string>
+    <string name="txt_definicoes_titulo">Definições da Oficina</string>
+    <string name="txt_sobre_autor">Sobre o Autor</string>
+    <string name="txt_nome_autor">Desenvolvido por: Rodrigo Amaral</string>
+    <string name="title_active_orders">HJC Performance - Pedidos Ativos</string>
+    <string name="title_clients_vehicles">Clientes e Viaturas</string>
+    <string name="title_premium_financial">Relatório Financeiro Premium</string>
+    <string name="btn_help">Ajuda / Como Usar</string>
+    <string name="btn_logout">Sair da Conta (Logout)</string>
+    <string name="label_name">Nome:</string>
+    <string name="label_email">Email:</string>
+    <string name="label_plan">Plano:</string>
+    <string name="plan_free">Grátis</string>
+    <string name="plan_premium">PREMIUM ⭐</string>
+
+    <string name="menu_orders">Pedidos</string>
+    <string name="menu_clients">Clientes</string>
+    <string name="menu_premium">Premium</string>
+    <string name="menu_settings">Definições</string>
+
+    <string name="status_open">Em Aberto</string>
+    <string name="status_in_progress">Em Curso</string>
+    <string name="status_completed">Concluído</string>
+    <string name="status_cancelled">Cancelado</string>
+
+    <string name="label_description">Descrição:</string>
+    <string name="label_budget">Orçamento:</string>
+    <string name="label_status">Estado:</string>
+    <string name="label_total_billing">Faturação Total: %s €</string>
+    <string name="label_phone">Telefone:</string>
+    <string name="label_photo_url">URL da Foto:</string>
+    <string name="label_plate">Matrícula:</string>
+    <string name="label_brand">Marca:</string>
+    <string name="label_model">Modelo:</string>
+    <string name="label_client">Cliente:</string>
+
+    <string name="dialog_new_order">Novo Pedido</string>
+    <string name="dialog_new_client">Novo Cliente</string>
+    <string name="dialog_edit_order">Editar Pedido - %s</string>
+    <string name="dialog_edit_client">Editar Cliente</string>
+    <string name="dialog_delete_client">Eliminar Cliente</string>
+    <string name="dialog_confirm_delete">Tem a certeza que deseja eliminar %s?</string>
+
+    <string name="btn_save">Guardar</string>
+    <string name="btn_save_changes">Guardar Alterações</string>
+    <string name="btn_close">Fechar</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_delete">Eliminar</string>
+    <string name="btn_create">Criar</string>
+
+    <string name="msg_success">Sucesso!</string>
+    <string name="msg_error">Erro ao processar dados.</string>
+    <string name="msg_add_client_first">Adicione primeiro um cliente!</string>
+
+    <!-- Login Screen -->
+    <string name="hint_email">E-mail profissional</string>
+    <string name="hint_password">Palavra-passe</string>
+    <string name="btn_login">Entrar na Oficina</string>
+    <string name="txt_register_link">Não tem conta? Criar conta de Mecânico</string>
+
+    <!-- Premium Paywall -->
+    <string name="premium_title">⭐ Funcionalidade Premium</string>
+    <string name="premium_description">Tenha acesso ao histórico detalhado de serviços, estatísticas de despesas e relatórios de faturação por apenas 1€/mês.</string>
+    <string name="btn_activate_premium">Ativar Conta Premium (1€)</string>
+    <string name="btn_deactivate_premium">Desativar Plano Premium</string>
+</resources>

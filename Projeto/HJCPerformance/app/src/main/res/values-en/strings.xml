@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HJC Performance</string>
+    <string name="txt_definicoes_titulo">Garage Settings</string>
+    <string name="txt_sobre_autor">About the Author</string>
+    <string name="txt_nome_autor">Developed by: Rodrigo Amaral</string>
+    <string name="title_active_orders">HJC Performance - Active Orders</string>
+    <string name="title_clients_vehicles">Clients and Vehicles</string>
+    <string name="title_premium_financial">Premium Financial Report</string>
+    <string name="btn_help">Help / How to Use</string>
+    <string name="btn_logout">Logout</string>
+    <string name="label_name">Name:</string>
+    <string name="label_email">Email:</string>
+    <string name="label_plan">Plan:</string>
+    <string name="plan_free">Free</string>
+    <string name="plan_premium">PREMIUM ⭐</string>
+
+    <string name="menu_orders">Orders</string>
+    <string name="menu_clients">Clients</string>
+    <string name="menu_premium">Premium</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="status_open">Open</string>
+    <string name="status_in_progress">In Progress</string>
+    <string name="status_completed">Completed</string>
+    <string name="status_cancelled">Cancelled</string>
+
+    <string name="label_description">Description:</string>
+    <string name="label_budget">Budget:</string>
+    <string name="label_status">Status:</string>
+    <string name="label_total_billing">Total Billing: %s €</string>
+    <string name="label_phone">Phone:</string>
+    <string name="label_photo_url">Photo URL:</string>
+    <string name="label_plate">Plate:</string>
+    <string name="label_brand">Brand:</string>
+    <string name="label_model">Model:</string>
+    <string name="label_client">Client:</string>
+
+    <string name="dialog_new_order">New Order</string>
+    <string name="dialog_new_client">New Client</string>
+    <string name="dialog_edit_order">Edit Order - %s</string>
+    <string name="dialog_edit_client">Edit Client</string>
+    <string name="dialog_delete_client">Delete Client</string>
+    <string name="dialog_confirm_delete">Are you sure you want to delete %s?</string>
+
+    <string name="btn_save">Save</string>
+    <string name="btn_save_changes">Save Changes</string>
+    <string name="btn_close">Close</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_create">Create</string>
+
+    <string name="msg_success">Success!</string>
+    <string name="msg_error">Error processing data.</string>
+    <string name="msg_add_client_first">Add a client first!</string>
+
+    <!-- Login Screen -->
+    <string name="hint_email">Professional E-mail</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Enter Garage</string>
+    <string name="txt_register_link">No account? Create Mechanic account</string>
+
+    <!-- Premium Paywall -->
+    <string name="premium_title">⭐ Premium Feature</string>
+    <string name="premium_description">Get access to detailed service history, expense statistics and billing reports for just €1/month.</string>
+    <string name="btn_activate_premium">Activate Premium Account (€1)</string>
+    <string name="btn_deactivate_premium">Deactivate Premium Plan</string>
+</resources>

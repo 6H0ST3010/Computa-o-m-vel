@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_pedidos"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="@string/menu_orders" />
+
+    <item
+        android:id="@+id/navigation_clientes"
+        android:icon="@android:drawable/ic_menu_my_calendar"
+        android:title="@string/menu_clients" />
+
+    <item
+        android:id="@+id/navigation_premium"
+        android:icon="@android:drawable/btn_star_big_on"
+        android:title="@string/menu_premium" />
+
+    <item
+        android:id="@+id/navigation_definicoes"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:title="@string/menu_settings" />
+</menu>
